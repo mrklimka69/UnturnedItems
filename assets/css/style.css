@@ -1,0 +1,29 @@
+body {
+    background: url("https://gamerwall.pro/uploads/posts/2022-03/1647857642_2-gamerwall-pro-p-fon-dlya-saita-krasivie-2.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.input__div {
+    display: flex;
+    text-align: center;
+
+
+}
+
+.link {
+    color: white;
+
+    font-size: 35px;
+    text-decoration: none;
+
+
+    transition: color .2s linear;
+}
+
+.link:hover {
+    color: rgb(136, 255, 156);
+
+}
